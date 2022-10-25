@@ -9,8 +9,8 @@
       font-family: 'Poppins', sans-serif;
       font-size: 16px;
       line-height: 1.5;
-      color: black;
-      background-color: steelblue;
+      color: white;
+      background-color: black;
   }
 
   img {
@@ -38,7 +38,7 @@
   }
 
   .navbar {
-   background-color: #3474e3;
+   background-color: black;
    color: white;
    height: 60px;
   }
@@ -75,7 +75,7 @@
   }
 
   .header {
-    background-color: #0151cc;
+    background-color: black;
     color: white;
     min-height: 400px;
   }
