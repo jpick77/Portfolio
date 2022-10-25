@@ -113,36 +113,12 @@
     background: #0a51cc;
     color: white;
     border-radius: 10px;
-    margin: 20px 10px;
+    margin: 20px 10px ;
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.6);
     padding: 15px 20px;
     display: flex;
   }
 
-
-  /* .header {
-    padding: 10px;
-    color: black;
-    background-color: lightslategrey;
-  }
-
-   .header .container div {
-    font-size: 20px;
-  }
-
-  .header .container div h1 {
-    justify-content: center;
-    display: flex;
-  }
-
-  .header .container div h1 p {
-    justify-content: center;
-    display: flex;
-  }
-
-  .header .container div h1 p img {
-    align-items: center;
-  }  */
 
 
 
