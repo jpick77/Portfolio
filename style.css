@@ -27,14 +27,14 @@
   }
 
   h4 {
-    margin-bottom: 8px;
+    margin-bottom: 25px;
   }
 
   ul {
     list-style-type: none;
   }
 
-  .hero {
+  #hero {
     /* sizing */
     width: 100vw;
     height: 100vh;
@@ -53,7 +53,7 @@
     background-attachment: fixed;
   }
 
-  .hero h1 {
+  #hero h1 {
     /* text styles */
     font-size: 5em;
     /* margins */
@@ -61,7 +61,7 @@
     margin-bottom: 0.5em;
   }
 
-  .hero .btn {
+  #hero .btn {
     /* positioning and sizing */
     display: block;
     width: 200px;
@@ -143,38 +143,48 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-left: 8px groove navy;
   }
-  .boxes {
+
+  #boxes {
     background-color: sandybrown;
   }
 
-  .boxes h4 {
+  #boxes h4 {
     font-size: 3rem;
     font-weight: bold;
     line-height: 1.2;
     align-items: center;
   }
 
-  .boxes h4::before {
+  #boxes h4::before {
     content: '';
     clear: both;
     display: block;
   }
 
-  .boxes .container {
+  #boxes .container {
     display: flex;
     justify-content: space-between;
+    border-left: 8px groove navy;
+    border-top: 8px groove navy;
+
   }
 
   .workbox {
-    flex: 1;
-    background-color: black;
+    flex: 3;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('./assets/images/screenshot.2.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: white;
     border-radius: 10px;
-    margin: 20px 10px ;
+    margin: 100px 50px ;
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.6);
     padding: 15px 20px;
     display: flex;
+    height: 10em;
   }
 
   .workbox a {
@@ -186,6 +196,10 @@
 
   .workbox a:hover {
     color: sandybrown;
+  }
+
+  .text-center {
+    text-align: center;
   }
 
   @media(max-width: 768px) {
