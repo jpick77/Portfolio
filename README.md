@@ -9,7 +9,5 @@ https://jpick77.github.io/Portfolio/
 
 
 # Screenshot of Code and website
-![Alt text](./assets/images/screen.shot.11.png "screen.shot.11.png")
-![Alt text](./assets/images/screen.shot.12.png "screen.shot.12.png")
-
-<i class="fa-sharp fa-solid fa-j"></i>
+![Alt text](./assets/images/screen.shot.14.png "scree.shot.14.png")
+![Alt text](./assets/images/screen.shot.15.png "screen.shot.15.png")
