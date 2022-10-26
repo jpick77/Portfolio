@@ -23,7 +23,7 @@
   h2,
   h3,
   h4 {
-    margin-bottom: 15px;
+    margin-bottom: 8px;
   }
 
   h4 {
@@ -55,10 +55,15 @@
 
   #hero h1 {
     /* text styles */
-    font-size: 5em;
+    font-size: 3em;
     /* margins */
     margin-top: 0;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.3em;
+    width: 400px;
+   height: 200px;
+   display: flex;
+   flex-wrap: wrap;
+   align-content: center;
   }
 
   #hero .btn {
@@ -189,14 +194,14 @@
   }
 
   .workbox a {
-    color: #fff;
-    text-decoration: none;
-    font-size: 18px;
+    color: lightgreen;
+    text-decoration: underline;
+    font-size: 25px;
     font-weight: bold;
   }
 
   .workbox a:hover {
-    color: sandybrown;
+    color: white;
   }
 
   .text-center {
