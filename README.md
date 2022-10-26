@@ -5,6 +5,6 @@ Here I created my first code from scratch, and deployed my first webpage.I was a
 Added reset css and media quieries to allow the page to be readable for all devices.
 
 # Link to Deployed Page
-https://jpick77.github.io/Portfolio/
+
 
 # Screenshot of Code and website
