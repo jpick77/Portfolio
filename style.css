@@ -40,7 +40,7 @@
     height: 100vh;
     /* flexbox */
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     /* text styles */
     text-align: center;
